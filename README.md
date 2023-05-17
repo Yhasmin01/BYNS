@@ -1,3 +1,3 @@
 # BYNS
-Projeto que auxilia alunos em dísica experimental
+Projeto que auxilia alunos em física experimental
 bhvzdjvsjhdvbjsdhbfjsdfhskdbfksdfskvn smdngkjsfngksfbgksgdnkadngksbgksg
